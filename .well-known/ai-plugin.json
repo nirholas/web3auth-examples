@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "web3auth-examples",
+    "name_for_model": "web3auth_examples",
+    "description_for_human": "web3auth-examples",
+    "description_for_model": "web3auth-examples",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/web3auth-examples/blob/main/LICENSE"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "web3auth-examples",
+    "description": "web3auth-examples",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/web3auth-examples",
+    "language": "TypeScript",
+    "topics": [
+        "nirholas",
+        "examples",
+        "web3auth",
+        "open-source"
+    ]
+}

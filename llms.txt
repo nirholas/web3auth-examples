@@ -1,0 +1,9 @@
+# web3auth-examples
+
+> web3auth-examples
+
+## Links
+
+- Repository: https://github.com/nirholas/web3auth-examples
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/web3auth-examples/main/llms-full.txt

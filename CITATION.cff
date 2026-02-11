@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use web3auth-examples, please cite it as below."
+type: software
+title: "web3auth-examples"
+abstract: "web3auth-examples"
+authors:
+  - alias: nirholas
+    name: nirholas
+repository-code: "https://github.com/nirholas/web3auth-examples"
+url: "https://github.com/nirholas/web3auth-examples"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-11"
+keywords:
+  - open-source
+  - nirholas

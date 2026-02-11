@@ -1,0 +1,18 @@
+# web3auth-examples
+
+> web3auth-examples
+
+## Overview
+
+web3auth-examples is an open-source project by nirholas. web3auth-examples
+
+## Repository
+
+- URL: https://github.com/nirholas/web3auth-examples
+- Language: TypeScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.
